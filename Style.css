@@ -1,0 +1,141 @@
+body {
+	background-image: url("image/Background/bg.png");
+	background-repeat: repeat-x;
+	margin: 0;
+}
+article {
+	padding-left: 10px;
+}
+
+#saunisgay {
+	background-color: white;
+	margin: 0% 25% 0% 25%;
+	font-family: sans-serif;
+	}
+header { 
+	background-image: url("image/Background/header.jpg");
+	background-repeat: no-repeat;
+	height: 269px;
+}
+#godverdomsidee {
+	margin-top: 0;
+	padding-top: 15px;
+	padding-left: 20px;
+	margin-bottom: 0;
+	font-size: 35;
+
+}
+#teringidee {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 23px;
+}
+h1 {
+	padding-left: 10px;
+}
+ul {				
+	color: white;
+	text-align: center;
+	position: absolute;
+	top: 210px;
+}
+li {
+	display: inline-block;
+}
+li a {
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+	text-decoration: none;
+}
+a:hover { 
+	color: black;
+ }
+ #oudship {
+			
+			float: left;
+			clear: left;
+			overflow: auto;
+			padding-left: 15px;
+			padding-right: 10px;
+			padding-bottom: 20px;
+		}
+		#oudshipp {
+			float: right;
+			clear: right;
+			overflow: auto;
+			padding-right: 10px;
+			padding-top: 15px;
+			padding-left: 20px;
+			padding-bottom: 10px;
+		}
+		#oudshippp {
+			float: left;
+			clear: left;
+			overflow: auto;
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-top: 10px; 
+			padding-bottom: 10px;
+		}
+		#oudshipppp {
+			float: left;
+			clear: left;
+			overflow: auto;
+			padding-left: 15px;
+			padding-right: 15px;
+			padding-bottom:30px;
+		}
+		#oudshippppp {
+			float: right;
+			clear: right;
+			overflow: auto;
+			padding-left: 15px;
+			padding-right: 15px;
+			padding-bottom:30px;
+		}
+		#oudshipppppp {
+			float: left;
+			padding-top: 18px;
+			padding-left: 10px;
+		}
+		#oudshippppppp {
+			float: left;
+			padding-top: 18px;
+			padding-left: 10px;
+			padding-right: 15px;
+		}
+		#schip1 {
+		float: left;
+		padding-right: 15px;
+		padding-bottom: 25px;	
+		}
+		#schip2 {
+		float: right;
+		padding-top: 15px;
+		padding-left:15px;
+		padding-bottom: 15px;
+		}
+		#schip3 {
+		float: left;
+		padding-right: 15px;
+		padding-bottom: 20px;
+		}
+		#ondzee {
+		float: left;
+		padding-right: 15px;
+		padding-bottom: 20px;
+		}
+		#uitzee {
+		float: right;
+		padding-top: 15px;
+		padding-left: 5px;
+		padding-bottom: 15px;
+		padding-right: 15px;
+		}
+		#innerzee {
+		float: left;
+		padding-right: 15px;
+		padding-bottom: 20px;
+		padding-top: 5px;
+		}
